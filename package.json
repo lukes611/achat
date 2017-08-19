@@ -1,0 +1,11 @@
+{
+  "name": "achat",
+  "version": "1.0.0",
+  "description": "a chat system with augmented reality",
+  "main": "vidserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luke lincoln",
+  "license": "ISC"
+}

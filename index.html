@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+
+
+<img id="out" />
+
+<script>
+
+let xx = '1';
+setInterval(() => {
+	document.getElementById('out').src = '/getim?' + xx;
+	xx++;
+}, 1000 / 40)
+
+</script>
+
+</body>
+</html>
